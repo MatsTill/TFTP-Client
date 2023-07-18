@@ -7,8 +7,14 @@ The program is written in Python and implemented with a fully functioning GUI (G
 
 ## Directory
 1. [Set-Up](https://github.com/MatsTill/TFTP-Client/tree/main/TFTP%20Client%20MP/Set-Up)
-2. [Deliverables](https://github.com/MatsTill/TFTP-Client/tree/main/TFTP%20Client%20MP/Deliverables)
-3. [References](https://github.com/MatsTill/TFTP-Client/tree/main/TFTP%20Client%20MP/References)
+   - Program Instructions
+   - Compatible TFTP Servers for MacOS & Windows
+3. [Deliverables](https://github.com/MatsTill/TFTP-Client/tree/main/TFTP%20Client%20MP/Deliverables)
+   - Wireshark Captures
+   - Documentation
+   - Source Code
+5. [References](https://github.com/MatsTill/TFTP-Client/tree/main/TFTP%20Client%20MP/References)
+   - RFCs
 
 ## Contributors
 [Sophia Elen Perez](https://github.com/MatsTill)<br>
