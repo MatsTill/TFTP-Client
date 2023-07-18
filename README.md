@@ -8,9 +8,9 @@ This project aims to demonstrate an understanding and implementation of network 
 The program is written in Python and implemented with a fully functioning GUI (Graphical User Interface) to provide a user-friendly interface for interacting with the TFTP protocol. It fully follows the specifications outlined in RFC 1350, with a partial implementation of features introduced in RFCs 2347, 2348, and 2349.
 
 ## Directory
-1. [Set-Up](https://github.com/MatsTill/TFTP Client MP/Set-Up) 
-2. [Deliverables](https://github.com/MatsTill/TFTP Client MP/Deliverables)
-3. [References](https://github.com/MatsTill/TFTP Client MP/References)
+1. [Set-Up](https://github.com/MatsTill/TFTP-Client/tree/main/TFTP%20Client%20MP/Set-Up)
+2. [Deliverables](https://github.com/MatsTill/TFTP-Client/tree/main/TFTP%20Client%20MP/Deliverables)
+3. [References](https://github.com/MatsTill/TFTP-Client/tree/main/TFTP%20Client%20MP/References)
 
 ## Contributors
 [Sophia Elen Perez](https://github.com/MatsTill)<br>
